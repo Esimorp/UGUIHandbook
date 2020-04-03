@@ -1,0 +1,23 @@
+{
+  "name": "uguihandbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esimorp/UGUIHandbook.git"
+  },
+  "author": "",
+  "license": "Creative Commons Attribution Share Alike 4.0 International",
+  "bugs": {
+    "url": "https://github.com/Esimorp/UGUIHandbook/issues"
+  },
+  "homepage": "https://github.com/Esimorp/UGUIHandbook#readme"
+}
